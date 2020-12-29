@@ -1,4 +1,4 @@
-# ** These are some config files for my FreeBSD and DWM Setup **
+# **These are some config files for my FreeBSD and DWM Setup**
 
 ## Packages we need
 * dwm
